@@ -27,4 +27,5 @@ This is a simple front-page clone of the official Behrouz Biryani website, creat
 •The content is static, with no navigation or interaction functionality.
 
 🔗 Live Demo (optional): Add GitHub Pages/Netlify link here if hosted
+
 📁 Project Status: Completed (basic version)
